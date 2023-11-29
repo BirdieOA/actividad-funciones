@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2rem;
+}
+.caja{
+  text-align:center;
+  display: flex;
+  flex-direction: row;
+}
+button{
+  width:430px;
+  border-radius:15px;
+  cursor: pointer;
+}
